@@ -3,6 +3,10 @@
 
 Created by Subhash Chandra Shukla [@subhashDev121](https://github.com/subhashDev121)
 
+
+https://user-images.githubusercontent.com/70679949/185905719-4b31b81d-66c6-47ef-ad92-f427b43fe85d.mp4
+
+
 ## Example
 ```aidl
 import 'package:date_input_field/date_input_field.dart';
